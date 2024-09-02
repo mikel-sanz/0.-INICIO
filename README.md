@@ -6,6 +6,6 @@ En todos los proyectos de electrónica donde existía la necesidad de este tipo 
 
 Siempre que he realizado menús, generalmente con la combinación de microcontroladores y un display, el firmware lo realicé en basic, con SELECT CASE, python no tiene estas instrucciones así que la mejor opción es la de IF.
 
-<a href="[https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb](https://colab.research.google.com/drive/19NoNNyuULhGqRM64wqKIXyMDVWaPkRv8?usp=sharing)">
+<a href="[https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb]([https://colab.research.google.com/drive/19NoNNyuULhGqRM64wqKIXyMDVWaPkRv8?usp=sharing](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb))">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
